@@ -1,5 +1,5 @@
 # PhotonicLazerParticles1
-Resolution for Phones
+Resolution for Phones and stops youe device from being hacked through the screen
 
 PhotonicsCrystals
 
